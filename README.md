@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salut, je suis Julien 👋
 
-<!--
-**JulienC7/JulienC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **étudiant en Coding à l'IIM Digital School**, passionné par le développement web et la création de projets numériques.  
 
-Here are some ideas to get you started:
+- 🌱 Je continue d'apprendre de nouvelles technologies web et d'améliorer mes compétences en programmation.  
+- 💻 Intéressé par le **développement frontend et backend**, la création de projets et la résolution de problèmes.  
+- 📫 Contact : julien.clavier95@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Compétences
+- HTML, CSS, JavaScript  
+- React, Node.js  
+- Unity & développement de jeux  
+- Git & gestion de versions  
